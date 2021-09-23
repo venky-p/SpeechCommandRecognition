@@ -2,7 +2,7 @@
 
 ## Required Libraries
 1. Python 3.6
-2. kapre 3.6
+2. kapre 0.1.7
 3. Tensorflow 2.2.0
 4. Scikit_Learn
 5. Soundfile
